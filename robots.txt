@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lovernook.github.io/sitemap.xml
